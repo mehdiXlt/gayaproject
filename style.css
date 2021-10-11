@@ -306,6 +306,13 @@ html,body{
     flex-direction: column;
 }
 
+.carouselle-text h1{
+    color: rgb(37, 37, 37);
+    margin-bottom: -20px;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    font-size: 3em;
+}
+
 .carouselle-text p{
     font-size: 0.8em;
     width: 60%;
